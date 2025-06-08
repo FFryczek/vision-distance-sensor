@@ -13,7 +13,7 @@ This project is a MATLAB App that uses an IP camera to detect blue objects in re
 
 ## 📸 Demo
 
-A full demo video is available in `examples/demo_video.mp4`.
+A full demo video is available in https://youtube.com/shorts/ukdeO6nNXZU.
 
 ## 📁 Folder Structure
 
